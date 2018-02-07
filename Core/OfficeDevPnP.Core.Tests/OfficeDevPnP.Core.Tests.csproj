@@ -473,9 +473,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
-      <SubType>Designer</SubType>
+      <SubType>
+      </SubType>
     </None>
-    <None Include="App.config.sample" />
     <None Include="Framework\Functional\Templates\ct3document.docx" />
     <None Include="Framework\Functional\Templates\ct1document.docx" />
     <None Include="Framework\Functional\Templates\CT21Document.docx" />
